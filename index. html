@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Tienda Dropshipping</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a mi tienda</h1>
+    </header>
+    <main>
+        <h2>Producto de ejemplo</h2>
+        <p>Descripción del producto.</p>
+        <button onclick="window.location.href='https://www.paypal.com'">Comprar con PayPal</button>
+        <button onclick="window.location.href='https://checkout.stripe.com'">Comprar con Stripe</button>
+    </main>
+    <footer>
+        <p>© 2025 Mi Tienda</p>
+    </footer>
+</body>
+</html>
