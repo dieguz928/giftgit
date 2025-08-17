@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+h1 {
+  color: #333;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button.paypal {
+  background-color: #0070ba;
+  color: white;
+}
+
+button.stripe {
+  background-color: #635bff;
+  color: white;
+}
